@@ -1,4 +1,4 @@
-These programs download files on a website.
+These programs download files on a website automatically.
 
 downloadAll.js will download all files with an <a> tag that contain download-button in the @class attribute.
 downloadList.js will only download a subset of those files that are included in a list.
